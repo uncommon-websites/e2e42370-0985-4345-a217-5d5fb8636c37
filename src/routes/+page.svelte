@@ -82,5 +82,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Ready to fund breakthrough defence technology?"
+	subtitle="Strategic capital meets allied innovation"
+	description="Join the network of defence tech founders building critical capabilities for allied nations. We understand classified technologies and provide access to military decision-makers across NATO and Five Eyes nations."
+	imageSrc="/generated/image-a-confident-founder-in-their-late-20s-to.webp"
+	callsToAction={[
+		{
+			href: "/",
+			label: "Discuss your technology",
+			variant: "primary"
+		},
+		{
+			href: "/about",
+			label: "Our investment thesis",
+			variant: "secondary"
+		}
+	]}
+/>
